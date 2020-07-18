@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:flutter_list_bloc/example/pet_list/models/food.dart';
+import 'package:flutter_list_bloc/example/food_list/models/food.dart';
 
 class FoodApiProvider {
   final String _endpoint = "https://api.spoonacular.com/recipes/complexSearch?";

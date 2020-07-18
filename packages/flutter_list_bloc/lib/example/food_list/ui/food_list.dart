@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_list_bloc/example/pet_list/bloc/food_list_bloc.dart';
-import 'package:flutter_list_bloc/example/pet_list/models/food.dart';
-import 'package:flutter_list_bloc/example/pet_list/models/food_filter.dart';
+import 'package:flutter_list_bloc/example/food_list/bloc/food_list_bloc.dart';
+import 'package:flutter_list_bloc/example/food_list/models/food.dart';
+import 'package:flutter_list_bloc/example/food_list/models/food_filter.dart';
 import 'package:flutter_list_bloc/flutter_list_bloc.dart';
 import 'package:list_bloc/list_bloc.dart';
 

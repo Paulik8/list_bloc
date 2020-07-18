@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_list_bloc/example/pet_list/bloc/food_list_bloc.dart';
-import 'package:flutter_list_bloc/example/pet_list/food_repository.dart';
-import 'package:flutter_list_bloc/example/pet_list/ui/food_list.dart';
+import 'package:flutter_list_bloc/example/food_list/bloc/food_list_bloc.dart';
+import 'package:flutter_list_bloc/example/food_list/food_repository.dart';
+import 'package:flutter_list_bloc/example/food_list/ui/food_list.dart';
 
 void main() {
   final foodRepository = FoodRepository();

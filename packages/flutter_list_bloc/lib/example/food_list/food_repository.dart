@@ -1,4 +1,4 @@
-import 'package:flutter_list_bloc/example/pet_list/food_api_provider.dart';
+import 'package:flutter_list_bloc/example/food_list/food_api_provider.dart';
 import 'package:list_bloc/list_bloc.dart';
 import 'models/food.dart';
 import 'models/food_filter.dart';
