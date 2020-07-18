@@ -10,6 +10,8 @@ dependencies:
   list_bloc:
     path: ../list_bloc
   flutter_bloc: ^4.0.0
+  built_value: ^7.1.0
+  dio: ^3.0.9
 
   flutter:
     sdk: flutter
